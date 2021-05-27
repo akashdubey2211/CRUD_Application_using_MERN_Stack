@@ -1,0 +1,24 @@
+/* showcase section */
+
+.section-showcase {
+    margin: 2rem 0;
+  }
+  
+  .section-showcase .container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 3rem;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .section-showcase h1 {
+    font-size: 3rem;
+    color:#21094e;
+    margin-left: 2rem;
+  }
+  
+  .section-showcase p {
+    margin: 1rem 0;
+    margin-left: 2rem;
+  }
